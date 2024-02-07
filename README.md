@@ -33,11 +33,11 @@ The study is structured into three key components:
 
 To utilize and explore this project, follow these steps:
 
-1. **follow this link:**
+1. **Follow this link:**
 
    https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4014755614778599/2270627190093956/3346482936552364/latest.html
 
-2. **Enjoy the Analysis 😁**
+2. **Enjoy the analysis 😁**
 
 
 Contributors
